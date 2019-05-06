@@ -4,6 +4,8 @@ description = " 六四幸存者，《致命中国》序言作者。著有《失�
 weight = 20
 +++
 
+{{< myaudio01 mp3="20190506_d7cyqxbj5mq.mp3" >}}
+
 {{< myvideo01 mp4="20190506_d7cyqxbj5mq.mp4" >}}
 
     唐柏桥 @BaiqiaoCh 
