@@ -2,7 +2,7 @@ baseURL = "/"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = " https://www.jjj123.com https://mp3s.jjj123.com"
+title = " 唐柏桥"
 theme = "hugo-theme-docdock"
 #themesdir = "../.."
 themesdir = "./themes"
@@ -18,6 +18,7 @@ enableMissingTranslationPlaceholders = false
 [params]
 dynsite00 = "https://www.jjj123.com"
 dynsite01 = "https://mp3s.jjj123.com"
+dynsite02 = "https://www.youtube.com/channel/UCeBfK3zzgqDQLhBovmguOuQ"
 editURL = ""
 showVisitedLinks = true # default is false
 ## themeStyle = "flex" # "original" or "flex" # default "flex"
