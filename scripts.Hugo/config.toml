@@ -2,7 +2,7 @@ baseURL = "/"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = " 唐柏桥"
+title = " 唐柏桥 六四幸存者"
 theme = "hugo-theme-docdock"
 #themesdir = "../.."
 themesdir = "./themes"
